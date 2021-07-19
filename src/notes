@@ -1,0 +1,19 @@
+Angular
+-------
+1.Component - ( root Component - App Component)
+
+2.Module - ( root module - App Module)
+
+3.Angular Form
+   3.1 Template driven Angular Form
+   3.2 Model driven Angular Form 
+4.Data Binding
+
+   4.1 One Way Binding
+       4.1.1 From Component to View
+            4.1.1.1 String Interpolation / Interpolation - syntax: {{expression}}
+            4.1.1.2 Property Binding - syntax: [target-property] = "source-property"
+       4.1.2 From View to Component
+            4.1.2.1 Event Binding - syntax: (event)="function call"
+            4.1.2.2 Event Binding using '$event' as an Argument - syntax: (event)="function ($event)"
+   4.2 Two Way Binding
